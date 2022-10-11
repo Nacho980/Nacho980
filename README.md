@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Vocal detector](https://github.com/Nacho980/list-function-check_for_vocals/blob/main/code.py)
-
+  - [Reverse string](https://github.com/Nacho980/reverse_string/blob/main/code.py)
 <h2>📄 Certifications</h2>
 
 - [Network + by CompTia](https://www.credly.com/badges/41ab966d-6539-49de-99b7-f1b03d2cde61/linked_in_profile)
