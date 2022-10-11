@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Vocal detector](https://github.com/Nacho980/list-function-check_for_vocals/blob/main/code.py)
 
 <h2>📄 Certifications</h2>
 
